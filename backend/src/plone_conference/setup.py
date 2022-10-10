@@ -48,7 +48,7 @@ setup(
         "Plone",
         "prettyconf",
         "kitconcept.api",
-        "pas.plugins.authomatic"
+        "pas.plugins.authomatic",
     ],
     extras_require={
         "test": [
