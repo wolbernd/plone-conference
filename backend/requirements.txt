@@ -1,0 +1,10 @@
+-c constraints.txt
+-e src/plone_conference[test]
+
+zope.testrunner
+
+
+# Add required add-ons
+# collective.easyform
+
+pas.plugins.authomatic

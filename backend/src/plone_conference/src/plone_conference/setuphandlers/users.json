@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "b.wolber@fz-juelich.de",
+      "properties": {
+        "fullname": "Plone Conference",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "plone-conference"
+    }
+  ],
+    "team": [
+  ]
+}
