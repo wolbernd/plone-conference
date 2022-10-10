@@ -1,4 +1,3 @@
-#Testcomment
 FROM node:16-slim as base
 FROM base as builder
 
