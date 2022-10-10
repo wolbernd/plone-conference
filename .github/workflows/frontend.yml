@@ -40,7 +40,7 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: i18n
-        run: yarn run i18n:ci
+        run: yarn run lint:ci
 
   prettier:
     runs-on: ubuntu-latest
