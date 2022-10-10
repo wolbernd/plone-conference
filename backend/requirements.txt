@@ -6,6 +6,3 @@ zope.testrunner
 
 # Add required add-ons
 # collective.easyform
-#testcomment
-
-pas.plugins.authomatic

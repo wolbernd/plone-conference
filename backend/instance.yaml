@@ -3,6 +3,6 @@ default_context:
     initial_user_password: 'admin'
 
     load_zcml:
-        package_includes: ['plone_conference', 'pas.plugins.authomatic']
+        package_includes: ['plone_conference']
 
     db_storage: direct
